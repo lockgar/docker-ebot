@@ -1,4 +1,4 @@
-FROM php:5.6.25-zts
+FROM php:7.0.15-zts
 
 ENV EBOT_HOME="/ebot" \
     TIMEZONE="Europe/Paris"
